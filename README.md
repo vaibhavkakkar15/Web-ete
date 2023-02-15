@@ -1,5 +1,5 @@
 
-- cd Piz-Shop
+- cd ete project
 - Run Backend
   - npm install
   - npm start
